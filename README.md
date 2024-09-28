@@ -62,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out for inquiries or feedback:
 
-- **Email**: your.sanjanacharaya1234@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sanjan-bm/))
-- **GitHub**: [Your GitHub Profile](https://github.com/sanjanb)
+- **Email**: sanjanacharaya1234@gmail.com
+- **LinkedIn**: (https://www.linkedin.com/in/sanjan-bm/)
+- **GitHub**: (https://github.com/sanjanb)
   
