@@ -35,7 +35,7 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/sanjanb/portfolio-website.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -63,6 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to reach out for inquiries or feedback:
 
 - **Email**: your.sanjanacharaya1234@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/sanjan-bm)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sanjan-bm/))
 - **GitHub**: [Your GitHub Profile](https://github.com/sanjanb)
   
